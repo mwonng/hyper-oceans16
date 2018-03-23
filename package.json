@@ -1,13 +1,13 @@
 {
-  "name": "hyper-oceans16",
-  "version": "1.14.5",
+  "name": "hyper-oceans-next-mwonng",
+  "version": "0.0.1",
   "description": "Oceans16 Theme for Hyper",
   "main": "index.js",
   "license": "MIT",
-  "repository": "henrikdahl/hyper-oceans16",
+  "repository": "mwonng/hyper-oceans16",
   "author": {
-    "name": "Henrik Dahlheim",
-    "email": "henrik.dahlheim@gmail.com"
+    "name": "Michael Wonng",
+    "email": "michael@wonng.com"
   },
   "files": [
     "index.js"
