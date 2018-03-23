@@ -1,5 +1,5 @@
 // Syntax scheme
-const backgroundColor   = '#2B303B';
+const backgroundColor   = 'rgba(40,43,52,0.8)';
 const foregroundColor   = '#D0D4E6';
 const cursorColor       = '#2C85F7';
 const borderColor       = '#394251';
@@ -31,7 +31,7 @@ exports.decorateConfig = config => {
         colors,
         cursorColor: config.cursorColor || cursorColor,
         cursorShape: config.cursorShape || 'BEAM',
-        fontSize: config.fontSize || 12,
+        fontSize: config.fontSize || 16,
         fontFamily: config.fontFamily || '"Fira Code"',
         termCSS: `
             ${config.termCSS || ''}
